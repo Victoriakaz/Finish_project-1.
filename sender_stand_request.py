@@ -31,3 +31,5 @@ def test_order_creation_and_retrieval():
 
 if __name__ == "__main__":
    test_order_creation_and_retrieval()
+
+   # Казакова Виктория, 27 - я когорта - Финальный проект. Инженер по тестированию плюс
